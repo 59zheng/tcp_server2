@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="34e53ab4-8b60-4a0c-b24d-a12e3fdd7545" name="Default" comment="one">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Application_1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -343,7 +344,7 @@
       <workItem from="1583386127600" duration="18000" />
       <workItem from="1583386520635" duration="606000" />
       <workItem from="1583387228648" duration="2326000" />
-      <workItem from="1583389871442" duration="1622000" />
+      <workItem from="1583389871442" duration="2243000" />
     </task>
     <task id="LOCAL-00001" summary="one">
       <created>1583388720876</created>
@@ -352,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583388720876</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="one">
+      <created>1583391692237</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583391692237</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
