@@ -382,18 +382,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="one" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="262" y="6" key="CommitChangelistDialog2" timestamp="1583391613968">
+    <state x="262" y="6" width="1064" height="812" key="CommitChangelistDialog2" timestamp="1583392131322">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="262" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583391613968" />
+    <state x="262" y="6" width="1064" height="812" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583392131322" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1583386548749">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1583386548749" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1583388575957">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1583392160181">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583388575957" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583392160181" />
     <state x="625" y="286" width="309" height="252" key="Github.ShareDialog" timestamp="1583391205383">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -418,10 +418,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583389878077" />
-    <state x="599" y="203" key="svn.repositoryBrowser" timestamp="1583388555850">
+    <state x="599" y="203" key="svn.repositoryBrowser" timestamp="1583392153032">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="599" y="203" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1583388555850" />
+    <state x="599" y="203" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1583392153032" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
